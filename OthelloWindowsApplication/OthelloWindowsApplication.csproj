@@ -68,9 +68,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Ex02_Othelo_Engine\Ex02_Othelo_Engine.csproj">
+    <ProjectReference Include="..\Ex02_Othelo_Engine\Othello_Engine.csproj">
       <Project>{e661b97e-f094-48cb-91fb-a1fc374ac183}</Project>
-      <Name>Ex02_Othelo_Engine</Name>
+      <Name>Othello_Engine</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

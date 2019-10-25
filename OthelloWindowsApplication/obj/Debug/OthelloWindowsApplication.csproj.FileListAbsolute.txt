@@ -1,0 +1,1 @@
+E:\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\projects\C#\WinForm_Othello\OthelloWindowsApplication\bin\Debug\OthelloWindowsApplication.exe.config
